@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite parallel="false" name="Suite">
+  <test name="Test">
+    <classes>
+      <class name="com.Notes.All_Login"/>
+      <class name="com.Notes.Create_Notes_UsingBase_and_File"/>
+      <class name="com.Notes.Delete_Notes"/>
+      <class name="com.Notes.Notes_NegativeScenario"/>
+      <class name="com.Notes.Notes_AllTC"/>
+      <class name="com.Notes.update_Notes"/>
+	  <class name="com.Notes.Create_Notes_Using_File"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
